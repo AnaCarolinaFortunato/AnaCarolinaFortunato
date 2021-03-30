@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anacarolinafortunato&label=Profile%20views&color=0e75b6&style=flat" alt="anacarolinafortunato" /> </p>
 
-- 🌱 I’m currently learning **Angular,Typescript,C#**
+- 🌱 I’m currently learning **Angular and .NET **
 
 - 📫 How to reach me **anacarolinafortunatosantos@gmail.com**
 
